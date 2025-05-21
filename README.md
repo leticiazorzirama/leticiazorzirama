@@ -3,7 +3,7 @@
 I have a Bachelor's degree in *Biological Sciences* and I'm ready for an entry-level job as a **Data Scientist**, combining my multidisciplinary background with technical skills to extract valuable insights from data.
 
 Currently, I am focusing on *Generative AI*. 
-I am also dedicated to improving my skills in *Python* and its *Data Science libraries*, as well as *R*, *SQL*, *Data Visualization*, *Problem-solving*, *Storytelling*, *Statistics* and other essential competencies to become a successful Data Scientist.
+I am also dedicated to improving my skills in *Problem-solving*, *Storytelling*, *Statistics*, as well as *Python* and its *Data Science libraries*, *R*, *SQL*, *Data Visualization* and other essential competencies to become a successful Data Scientist.
 
 Skills:
 
