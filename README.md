@@ -15,6 +15,7 @@ Tools:
 - 🌱 I’m currently pursuing a nanodegree certification in *Generative AI*.
 - 🔭 I’m currently working on a project for *Lightweight Fine-Tuning to a Foundation Model with PEFT-LoRA for sequence classification*.
 - 📖 I'm currently reading:
+  - _Gen AI and LLMs for Dummies by Snowflake_
   - _Bulletproof-problem-solving_ by Charles Conn and Robert McLean;
   - _Data Science for Business_ by Foster Provost and Tom Fawcett;
   - _Storytelling With Data_ by Cole Nussbaumer Knaflic.
