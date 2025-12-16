@@ -2,15 +2,11 @@
 
 I have a Bachelor's degree in Biological Sciences.
 
-Currently, I am focusing on *Generative AI*, *automation*, and the development of *autonomous agents*. I am also dedicated to improving my skills in *problem-solving*, *storytelling*, *system integration*, *statistics*, as well as *Python frameworks for Gen AI and Data Science*, *SQL*, *data visualization*, and other essential competencies to create scalable and efficient solutions.
-
-Skills:
-
-Curiosity / Critical thinking / Problem-solving / Emotional intelligence
+Currently, I am focusing on *Deep learning* and *Computer vision*. I am also dedicated to improving my skills in *problem-solving*, *storytelling*, *statistics*, as well as *Python frameworks for AI and Data Science*, *SQL*, *data visualization*, and other essential competencies to create scalable and efficient solutions for environmental problems.
 
 Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,anaconda,pycharm,git,github,mysql,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,anaconda,pycharm,git,github,mysql&theme=light)](https://skillicons.dev)
 
 - 🌱 I’m currently pursuing a nanodegree certification in *Generative AI*.
 - 🔭 I’m currently working on a project for *Lightweight Fine-Tuning to a Foundation Model with PEFT-LoRA for sequence classification*.
