@@ -1,21 +1,45 @@
-## Hi there 👋, Welcome!
+## Hi there, welcome!
 
-I have a Bachelor's degree in Biological Sciences.
+I hold a bachelor’s degree in **Biological Sciences**. My academic and professional background has been grounded in **marine and coastal environments**. This foundation strongly influences both my technical interests and the types of problems I aim to solve.
 
-Currently, I am focusing on *Deep learning* and *Computer vision*. I am also dedicated to improving my skills in *problem-solving*, *storytelling*, *statistics*, as well as *Python frameworks for AI and Data Science*, *SQL*, *data visualization*, and other essential competencies to create scalable and efficient solutions for environmental problems.
+Currently, my work and studies are focused on **Deep Learning** and **Computer Vision**, with particular attention to applications in environmental and marine contexts. I am continuously strengthening my skills in **Python and R for AI and Data Science**, **statistics**, **problem-solving**, and **data storytelling**, alongside practical competencies in **SQL**, **data visualization**, and the development of **scalable, efficient analytical solutions**.
 
-Tools: 
+---
+
+### 🛠️ Tools and Technologies
+
+I have hands-on experience with the following tools and ecosystems:
 
 [![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,anaconda,pycharm,git,github,mysql&theme=light)](https://skillicons.dev)
 
-- 🌱 I’m currently pursuing a nanodegree certification in *Generative AI*.
-- 🔭 I’m currently working on a project for *Lightweight Fine-Tuning to a Foundation Model with PEFT-LoRA for sequence classification*.
-- 📖 I'm currently reading:
-  - _Gen AI and LLMs for Dummies by Snowflake_
-  - _Bulletproof-problem-solving_ by Charles Conn and Robert McLean;
-  - _Data Science for Business_ by Foster Provost and Tom Fawcett;
-  - _Storytelling With Data_ by Cole Nussbaumer Knaflic.
-- 📫 How to reach me: [Letícia Zorzi Rama](https://www.linkedin.com/in/leticiazorzirama/).
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: some biologists love math and coding (like me!), and Biology and Data Science have a lot in common!
+---
+
+### 🌱 Current Focus
+
+- Studying **Computer Vision for oriented object detection**, with an emphasis on **ship detection using remote sensing data**  
+- Pursuing a **Nanodegree in Generative AI**  
+- Working at the **Applied Marine Studies Laboratory**, University of Vale do Itajaí (UNIVALI), Santa Catarina, Brazil  
+
+---
+
+### 📚 Reading List
+
+- *Bulletproof Problem Solving* — Charles Conn & Robert McLean  
+- *Data Science for Business* — Foster Provost & Tom Fawcett  
+- *Storytelling with Data* — Cole Nussbaumer Knaflic  
+- *The Universe in a Nutshell* — Stephen Hawking  
+- *The Four Agreements* — Don Miguel Ruiz  
+
+---
+
+### 📫 Get in Touch
+
+- **LinkedIn:** [Letícia Zorzi Rama](https://www.linkedin.com/in/leticiazorzirama/)  
+- **Pronouns:** She/Her  
+
+---
+
+### 🌊 Fun Fact
+
+Pearls are the only gemstones created by a living organism that require no cutting or polishing to reveal their natural beauty. Even more fascinating, the same biological process that forms a pearl is essentially a defense mechanism: when an irritant enters a mollusk, it is coated with layers of nacre, turning a potential threat into a gemstone through time, chemistry, and biology. From a materials science perspective, nacre is so well engineered that it is stronger than many synthetic composites, combining hardness and resilience in a structure humans still struggle to replicate.
 
