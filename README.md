@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome!
 
-I have a Bachelor's degree in Biological Sciences and I'm ready for an entry-level role in tech, combining my multidisciplinary background with technical skills to build intelligent systems and extract valuable insights from data.
+I have a Bachelor's degree in Biological Sciences.
 
 Currently, I am focusing on *Generative AI*, *automation*, and the development of *autonomous agents*. I am also dedicated to improving my skills in *problem-solving*, *storytelling*, *system integration*, *statistics*, as well as *Python frameworks for Gen AI and Data Science*, *SQL*, *data visualization*, and other essential competencies to create scalable and efficient solutions.
 
