@@ -1,6 +1,6 @@
 ## Hi,
 
-I have a bachelor's degree in biological sciences and am a master's student in applied computing.
+I have a bachelor's degree in biological sciences and am a master's student in applied computing.  
 I am currently studying **statistics** and **deep learning** as modelling approaches to be applied in **marine sciences** using **remote sensing** data.
 
 ---
